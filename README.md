@@ -3,7 +3,7 @@
 ## An AR Laboratory Application
 ---
 ### *Steps to follow when starting a new component:*
-1. When starting a new component, `git checkout main` then  `git pull`
+1. When starting a new component, `git checkout master` then  `git pull`
 2. `git checkout -b "<component-name>"`
 3. Make changes.
 4. `git add .`
