@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{F13A0729-105A-7599-4420-7E58875361D8}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GyroControl.cs">
     <Files>
-      <File FileName="Assets/GyroControl.cs" Line="24" Column="6" />
+      <File FileName="Assets/GyroControl.cs" Line="38" Column="1" />
       <File FileName="Assets/MainMenu.cs" />
-      <File FileName="Assets/EBackButtonScript.cs" Line="26" Column="6" />
+      <File FileName="Assets/EBackButtonScript.cs" Line="16" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

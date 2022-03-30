@@ -9,9 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/ExperimentsMenu.unity
     guid: d0a20349199cc4af9a13b96fbeef425e
   - enabled: 1
-    path: Assets/Scenes/CE1.unity
+    path: Assets/Scenes/E1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/CE2.unity
+    path: Assets/Scenes/E2.unity
     guid: 00069f18b99ee45f8902b51f610ba4b2
+  - enabled: 1
+    path: Assets/Scenes/E3.unity
+    guid: d87bd1835a22c48658f798399cad217f
+  - enabled: 1
+    path: Assets/Scenes/E4.unity
+    guid: cdf7f745ac0aa44c19f9d6ccef937cf5
   m_configObjects: {}

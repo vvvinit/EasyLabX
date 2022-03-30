@@ -17,6 +17,9 @@ public class EBackButtonScript : MonoBehaviour
         BackButtonPressed();
     }
 
+    /*
+     * Loads the main experiment menu when back button is pressed.
+     */
     void BackButtonPressed()
     {
         if (Input.GetKey(KeyCode.Escape))
