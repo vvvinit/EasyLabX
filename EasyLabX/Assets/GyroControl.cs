@@ -20,8 +20,14 @@ public class GyroControl : MonoBehaviour
         gyroEnabled = EnableGyro();
     }
 
+    /*
+     * Check whether device supports gyroscope interactions.
+     */
     private bool EnableGyro()
     {
+        /*
+         * Set default orientations if gyroscope is available.
+         */
         if (SystemInfo.supportsGyroscope)
         {
             gyro = Input.gyro;
@@ -41,6 +47,9 @@ public class GyroControl : MonoBehaviour
      */
     void Update()
     {
+        /*
+         * Interact with gyroscope if supported.
+         */
         if (gyroEnabled)
         {
             transform.localRotation = gyro.attitude * rotation;
