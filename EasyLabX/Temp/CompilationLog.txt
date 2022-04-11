@@ -1,0 +1,2 @@
+# Starting compiling Obi.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.30f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-aa8e5f46696d9488db289bf38a85a429
