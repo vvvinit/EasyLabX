@@ -1,16 +1,40 @@
 # EasyLabX
 ## Semester VI : Advanced Graphics & Animation Project
-## An AR Laboratory Application
+## A Virtual Laboratory Application
+
 ---
-### *Steps to follow when starting a new component:*
-1. When starting a new component, `git checkout master` then  `git pull`
-2. `git checkout -b "<component-name>"`
-3. Make changes.
-4. `git add .`
-5. `git commit -m "<message>"`
-6. `git push` (The first time you do this, it will tell you to run with some options, just paste and run that command).
-6. Repeat from step 3 until you're done with the component.
-7. Make a pull request on GitHub.
-8. Someone else reviews the PR, if no changes required then approve and merge it.
-9. Back to step 1.
----
+# Technical Requirements
+Game Engine:
+  - Unity 3D Version 2017.4.14f1 LTS
+  
+Scripting Language:
+  - C#
+  
+Current Platform Availability:
+  - Android
+  
+
+# Contents (List of Scenes)
+
+Experiments Menu:
+  - List of Experiments, Author Information and Quit button.
+    - This scene has a list of experiments the user can select and perform.
+    - It also has an option that shows the information of authors.
+    - Quit button to exit the application.
+    
+L1:
+  - Experiment 1: Name
+    - More Info
+    
+# Application Interactions
+- To interact with objects/actions in the application:
+    - The user will be given appropriate buttons at every stage to perform different actions in the experiment.
+- In each experiment:
+    - Along with the actions buttons, the user can look around by changing the orientation of the device.
+
+
+# How to run the project?
+
+
+
+
