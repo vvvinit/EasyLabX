@@ -46,6 +46,116 @@
     <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
+<<<<<<< Updated upstream
+=======
+  <PropertyGroup>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <UnityProjectGenerator>Package</UnityProjectGenerator>
+    <UnityProjectGeneratorVersion>2.0.14</UnityProjectGeneratorVersion>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
+    <UnityVersion>2020.3.30f1</UnityVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/AddRandomVelocity.cs" />
+    <Compile Include="Assets/Game Contents/Main Menu Assets/Scripts/CloseIntructions.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ColorFromVelocity.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/FPSDisplay.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ObjectDragger.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ObiParticleCounter.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ColorFromViscosity.cs" />
+    <Compile Include="Assets/Scenes/SampleScenes/Scripts/SlowMoButton.cs" />
+    <Compile Include="Assets/Scenes/SampleScenes/Menu/Scripts/SceneAndURLLoader.cs" />
+    <Compile Include="Assets/Scenes/SampleScenes/Scripts/LevelReset.cs" />
+    <Compile Include="Assets/MainMenu.cs" />
+    <Compile Include="Assets/Game Contents/Main Menu Assets/Scripts/ExitGame.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ColliderHighlighter.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ActorSpawner.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/CollisionEventHandler.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/ObiFluidPropertyColorizer.cs" />
+    <Compile Include="Assets/moveRight.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ActorCOMTransform.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/SlowmoToggler.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ColorRandomizer.cs" />
+    <Compile Include="Assets/Game Contents/Main Menu Assets/Scripts/RotateObjects.cs" />
+    <Compile Include="Assets/Game Contents/Earth/Scripts/SphereScript.cs" />
+    <Compile Include="Assets/Game Contents/Earth/Scripts/MoveScript.cs" />
+    <Compile Include="Assets/Scenes/SampleScenes/Menu/Scripts/PauseMenu.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/DebugParticleFrames.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/MazeManager.cs" />
+    <Compile Include="Assets/Scenes/SampleScenes/Scripts/CameraSwitch.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/CharacterController/SampleCharacterController.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/BucketController.cs" />
+    <Compile Include="Assets/Game Contents/Main Menu Assets/Scripts/StartGame.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/CharacterController/ObiCharacter.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/Blinker.cs" />
+    <Compile Include="Assets/GyroControl.cs" />
+    <Compile Include="Assets/Game Contents/Earth/Scripts/EarthScript.cs" />
+    <Compile Include="Assets/Scenes/SampleScenes/Scripts/PlaceTargetWithMouse.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/FluidColorizer.cs" />
+    <Compile Include="Assets/Scenes/SampleScenes/Menu/Scripts/MenuSceneLoader.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/FluidJetController.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/MazeScoreFormatter.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/WaveGenerator.cs" />
+    <Compile Include="Assets/EBackButtonScript.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ObiActorTeleport.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ExtrapolationCamera.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/ViscositySurfTensionToUserData.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ObjectLimit.cs" />
+    <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/Melt.cs" />
+    <Compile Include="Assets/Game Contents/Main Menu Assets/Scripts/ControllerMovement.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/MoveAndRotate.cs" />
+    <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ColorFromPhase.cs" />
+    <Compile Include="Assets/pHPaperChange.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/Obi/Samples/Fluid/SampleResources/Materials/StandardPerInstanceColor.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/ParticleShader.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/FluidThickness.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
+    <None Include="Assets/Obi/Plugins/x86_64/libOni.dll" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/ObiLightingBuiltIn.cginc" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/DistanceFieldSlice.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/ObiParticles.cginc" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/StandardVertexColors.shader" />
+    <None Include="Assets/FreeLabAssets/Shaders/SBS_Mana.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/SimpleParticleShader.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/ObiEllipsoids.cginc" />
+    <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
+    <None Include="Assets/Obi/CHANGELOG_fluid.txt" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/NormalReconstruction.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/ScreenSpaceCurvatureFlow.shader" />
+    <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
+    <None Include="Assets/Obi/Plugins/x86/libOni.dll" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/FluidColorsBlend.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/ObiFluids.cginc" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets/Obi/Plugins/libOni.bundle/Contents/Resources/CMakeLists.txt" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/FluidShader.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/LitParticles.shader" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
+    <None Include="Assets/Obi/Resources/ObiMaterials/ObiUtils.cginc" />
+    <None Include="Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
+  </ItemGroup>
+>>>>>>> Stashed changes
   <ItemGroup>
      <Compile Include="Assets\Obi\Samples\Common\SampleResources\Scripts\AddRandomVelocity.cs" />
      <Compile Include="Assets\Game Contents\Main Menu Assets\Scripts\CloseIntructions.cs" />

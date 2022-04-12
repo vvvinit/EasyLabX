@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{F13A0729-105A-7599-4420-7E58875361D8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/pHPaperChange.cs">
     <Files>
-      <File FileName="Assets/MainMenu.cs" Line="14" Column="23" />
+      <File FileName="Assets/MainMenu.cs" Line="14" Column="22" />
       <File FileName="Assets/GyroControl.cs" />
       <File FileName="Assets/EBackButtonScript.cs" />
       <File FileName="Assets/Game Contents/Earth/Scripts/SphereScript.cs" />
+      <File FileName="Assets/pHPaperChange.cs" Line="7" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="667de2a7-abde-458e-8810-a959b33226c1" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8b0de177-1026-47fb-a837-8e104d075470" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

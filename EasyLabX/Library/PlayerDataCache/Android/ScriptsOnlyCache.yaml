@@ -5,6 +5,7 @@ ScriptsOnlyBuild:
     - GyroControl
     - MainMenu
     - moveRight
+    - pHPaperChange
     Obi.dll:
     - Obi.ObiCollider
     - Obi.ObiEmitter
@@ -15,6 +16,7 @@ ScriptsOnlyBuild:
     - Obi.ObiSolver
     Unity.CollabProxy.Editor.dll:
     - Unity.Cloud.Collaborate.UserInterface.CollaborateWindow
+    - Unity.Cloud.Collaborate.UserInterface.WindowCache
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -23,7 +25,16 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshPro
     - TMPro.TextMeshProUGUI
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -260,11 +271,15 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
       Script: {instanceID: 0}
     - Class: 95
       Script: {instanceID: 0}
@@ -283,6 +298,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1984}
     - Class: 114
+      Script: {instanceID: 2070}
+    - Class: 114
       Script: {instanceID: 2804}
     - Class: 114
       Script: {instanceID: 3164}
@@ -290,6 +307,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 3400}
     - Class: 114
       Script: {instanceID: 3508}
+    - Class: 114
+      Script: {instanceID: 4038}
     - Class: 114
       Script: {instanceID: 4176}
     - Class: 114
@@ -306,6 +325,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5268}
     - Class: 114
       Script: {instanceID: 5498}
+    - Class: 114
+      Script: {instanceID: 133044}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1602,6 +1623,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Utility
     className: FPSCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: pHPaperChange
   platform: 13
   scenePathNames:
   - Assets/Scenes/ExperimentsMenu.unity

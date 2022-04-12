@@ -11,13 +11,15 @@ public class MainMenu : MonoBehaviour
      * The build index offset should be set accordingly.
      */
 
-    int delayTime = 25;
+    int delayTime = 7;
 
     
 
-    IEnumerator SetDelay(int time)
+    IEnumerator SetDelay(int time, GameObject g, string s)
     {
+        g.SetActive(true);
         yield return new WaitForSeconds(time);
+        LoadScene("L1");
     }
 
 
@@ -28,30 +30,18 @@ public class MainMenu : MonoBehaviour
 
     public void StartExperimentL1(GameObject g)
     {
-        g.SetActive(true);
-        StartCoroutine(SetDelay(delayTime));
-        LoadScene("L1");
+        StartCoroutine(SetDelay(delayTime, g, "L1"));
     }
 
     public void StartExperimentL2(GameObject g)
     {
-        g.SetActive(true);
-        StartCoroutine(SetDelay(delayTime));
-        LoadScene("L2");
+        StartCoroutine(SetDelay(delayTime, g, "L2"));
     }
 
     public void StartExperimentL3(GameObject g)
     {
-        g.SetActive(true);
-        StartCoroutine(SetDelay(delayTime));
-        LoadScene("L3");
-    }
+        StartCoroutine(SetDelay(delayTime, g, "L3"));
 
-    public void StartExperimentL4(GameObject g)
-    {
-        g.SetActive(true);
-        StartCoroutine(SetDelay(delayTime));
-        LoadScene("L4");
     }
 
     public void QuitApplication()
