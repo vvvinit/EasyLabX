@@ -1,15 +1,21 @@
 ﻿<Properties StartupConfiguration="{F13A0729-105A-7599-4420-7E58875361D8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GyroControl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game Contents/Earth/Scripts/SphereScript.cs">
     <Files>
       <File FileName="Assets/GyroControl.cs" Line="38" Column="1" />
       <File FileName="Assets/MainMenu.cs" />
-      <File FileName="Assets/EBackButtonScript.cs" Line="16" Column="6" />
+      <File FileName="Assets/EBackButtonScript.cs" />
+      <File FileName="Assets/Game Contents/Earth/Scripts/SphereScript.cs" Line="82" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EasyLabX" expanded="True">
             <Node name="Assets" expanded="True">
+              <Node name="Game Contents" expanded="True">
+                <Node name="Earth" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
               <Node name="GyroControl.cs" selected="True" />
             </Node>
           </Node>
@@ -19,7 +25,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="247930ea-c093-4f2f-8ed3-35f709da57cd" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8e2d44eb-6dc4-4b89-9507-8bcb9dbcd2ab" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
