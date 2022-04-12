@@ -19,10 +19,6 @@ namespace DigitalRuby.Earth
     {
         public float Speed = 10.0f;
 
-        private void Start()
-        {
-
-        }
 
         private void Update()
         {
