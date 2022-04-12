@@ -6,7 +6,7 @@ public class GyroControl : MonoBehaviour
     private Gyroscope gyro;
 
     private GameObject cameraContainer;
-    private Quaternion rotation;
+    private Quaternion initialRotation, gyroInitialRotation;
 
     /*
      * Start fn is called before the first frame update
@@ -33,11 +33,12 @@ public class GyroControl : MonoBehaviour
             gyro = Input.gyro;
             gyro.enabled = true;
 
-            cameraContainer.transform.rotation = Quaternion.Euler(90f, 90f, 0f);
-            rotation = new Quaternion(0, 0, 1, 0);
+            initialRotation = transform.rotation;
+            gyroInitialRotation = Input.gyro.attitude;
 
             return true;
         }
+
 
         return false;
     }
@@ -52,7 +53,8 @@ public class GyroControl : MonoBehaviour
          */
         if (gyroEnabled)
         {
-            transform.localRotation = gyro.attitude * rotation;
+            Quaternion offsetRotation = Quaternion.Inverse(gyroInitialRotation) * Input.gyro.attitude;
+            transform.rotation = initialRotation * Quaternion.Inverse(offsetRotation);
         }
     }
 }
