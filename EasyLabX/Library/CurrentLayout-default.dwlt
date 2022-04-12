@@ -75,7 +75,11 @@ MonoBehaviour:
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 65
+=======
+  controlID: 93
+>>>>>>> Stashed changes
 =======
   controlID: 93
 >>>>>>> Stashed changes
@@ -124,10 +128,17 @@ MonoBehaviour:
     width: 1440
     height: 731
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_MinSize: {x: 679, y: 342}
   m_MaxSize: {x: 12004, y: 8042}
   vertical: 0
   controlID: 129
+=======
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 91
+>>>>>>> Stashed changes
 =======
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
@@ -156,8 +167,11 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_ActualView: {fileID: 19}
 =======
+=======
+>>>>>>> Stashed changes
   m_ActualView: {fileID: 16}
 >>>>>>> Stashed changes
   m_Panes:
@@ -176,7 +190,11 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Name: GameView
+=======
+  m_Name: ProjectBrowser
+>>>>>>> Stashed changes
 =======
   m_Name: ProjectBrowser
 >>>>>>> Stashed changes
@@ -189,9 +207,15 @@ MonoBehaviour:
     width: 985.5
     height: 271
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_MinSize: {x: 101, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
+=======
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 15}
+>>>>>>> Stashed changes
 =======
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
@@ -204,8 +228,13 @@ MonoBehaviour:
   - {fileID: 15}
   - {fileID: 13}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Selected: 4
   m_LastSelected: 0
+=======
+  m_Selected: 0
+  m_LastSelected: 1
+>>>>>>> Stashed changes
 =======
   m_Selected: 0
   m_LastSelected: 1
@@ -309,7 +338,11 @@ MonoBehaviour:
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 90
+=======
+  controlID: 92
+>>>>>>> Stashed changes
 =======
   controlID: 92
 >>>>>>> Stashed changes
@@ -769,6 +802,9 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 5c4e0000
     m_LastClickedID: 20060
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     m_ExpandedIDs: 00000000484e00004a4e00004c4e00004e4e0000504e0000524e0000544e0000564e0000584e00005a4e00005c4e00005e4e0000604e0000624e0000644e0000664e0000684e00006a4e00006c4e00006e4e000000ca9a3b
     m_RenameOverlay:
@@ -851,7 +887,11 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_ScrollPosition: {x: 0, y: 0}
+=======
+    m_ScrollPosition: {x: 0, y: 121}
+>>>>>>> Stashed changes
 =======
     m_ScrollPosition: {x: 0, y: 121}
 >>>>>>> Stashed changes
@@ -924,9 +964,15 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       m_SelectedIDs: 3ca50200
       m_LastClickedID: 173372
       m_ExpandedIDs: 7ccafeff9ccafeffcacffeffeacffeffeecffefff2cffefff6cffefffacffeff0ad0feff94d0feffb6d0feff60d7feff80d7feff84d7feff88d7feff8cd7feff90d7feffa4d7feff2404ffffa036ffff346bffff5a6bffffb46bffffcc92ffffd492ffff0893ffff1a93ffff3a97ffffdea4fffffea4ffff34f1ffff82f3ffff70fbffff02430000304300003c430000404300004e430000de430000f44300008e4400002e450000824500007e460000d2460000e8460000e41f02000c200200b24e0200e04e0200ec4e0200f24e0200004f0200024f0200a24f0200ae4f0200ca4f0200e84f020074500200de500200de51020036520200b8520200fc52020012530200
+=======
+      m_SelectedIDs: e8090000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 54f3ffff70f4ffff70fbffff704f0000ae500000c4500000fe51000012520000525200004e530000
+>>>>>>> Stashed changes
 =======
       m_SelectedIDs: e8090000
       m_LastClickedID: 0
@@ -1045,9 +1091,15 @@ MonoBehaviour:
     m_Value: {x: -0.01099111, y: -0.6963421, z: 0.010656156, w: -0.7175468}
   m_Size:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Target: 4.524678
     speed: 2
     m_Value: 4.5417647
+=======
+    m_Target: 0.5938381
+    speed: 2
+    m_Value: 0.59473026
+>>>>>>> Stashed changes
 =======
     m_Target: 0.5938381
     speed: 2
