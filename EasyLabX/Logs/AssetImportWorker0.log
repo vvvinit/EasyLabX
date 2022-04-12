@@ -540,3 +540,10 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 675.193629 seconds.
+  path: Assets/basic-chemistry.png
+  artifactKey: Guid(b3b6b84d1a53d4f41b6b4a85c837bc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/basic-chemistry.png using Guid(b3b6b84d1a53d4f41b6b4a85c837bc42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbd539182603ce8da27f0c428685ca3d') in 2.076945 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
