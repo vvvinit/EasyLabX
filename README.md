@@ -5,7 +5,7 @@
 ---
 # Technical Requirements
 Game Engine:
-  - Unity 3D Version 2017.4.14f1 LTS
+  - Unity 3D Version 2020.3.30f1 LTS
   
 Scripting Language:
   - C#
