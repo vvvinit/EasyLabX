@@ -19,7 +19,7 @@ public class MainMenu : MonoBehaviour
     {
         g.SetActive(true);
         yield return new WaitForSeconds(time);
-        LoadScene("L1");
+        LoadScene(s);
     }
 
 

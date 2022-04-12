@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{F13A0729-105A-7599-4420-7E58875361D8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/L2Vapours.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainMenu.cs">
     <Files>
-      <File FileName="Assets/MainMenu.cs" Line="14" Column="22" />
+      <File FileName="Assets/MainMenu.cs" Line="14" Column="23" />
       <File FileName="Assets/GyroControl.cs" />
       <File FileName="Assets/EBackButtonScript.cs" />
       <File FileName="Assets/Game Contents/Earth/Scripts/SphereScript.cs" />
       <File FileName="Assets/pHPaperChange.cs" />
-      <File FileName="Assets/Scenes/L2Vapours.cs" Line="22" Column="6" />
+      <File FileName="Assets/Scenes/L2Vapours.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -28,7 +28,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8b0de177-1026-47fb-a837-8e104d075470" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa8341e5-a505-41ba-8777-b4d169e2b124" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
