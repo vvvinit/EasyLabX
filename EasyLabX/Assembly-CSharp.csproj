@@ -71,6 +71,7 @@
     <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ColliderHighlighter.cs" />
     <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ActorSpawner.cs" />
     <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/CollisionEventHandler.cs" />
+    <Compile Include="Assets/pHPaperChange.cs" />
     <Compile Include="Assets/Obi/Samples/Fluid/SampleResources/Scripts/ObiFluidPropertyColorizer.cs" />
     <Compile Include="Assets/moveRight.cs" />
     <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ActorCOMTransform.cs" />
@@ -105,7 +106,7 @@
     <Compile Include="Assets/Game Contents/Main Menu Assets/Scripts/ControllerMovement.cs" />
     <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/MoveAndRotate.cs" />
     <Compile Include="Assets/Obi/Samples/Common/SampleResources/Scripts/ColorFromPhase.cs" />
-    <Compile Include="Assets/pHPaperChange.cs" />
+    <Compile Include="Assets/Scenes/L2Vapours.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Obi/Samples/Fluid/SampleResources/Materials/StandardPerInstanceColor.shader" />

@@ -1721,7 +1721,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   material: {fileID: 0}
   phase: 0
-  thickness: 0.02
+  thickness: 0.05
   m_SourceCollider: {fileID: 232658610}
   m_DistanceField: {fileID: 0}
 --- !u!64 &232658610
@@ -15217,8 +15217,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2010800175}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 1.78e-13}
+  m_LocalScale: {x: 1.2243, y: 1.2243, z: 1.2243}
   m_Children: []
   m_Father: {fileID: 489351578}
   m_RootOrder: 0
@@ -15261,7 +15261,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Class is now in session
+  m_Text: 'Class X : Science Lab
+
+    Experiment 1
+
+    pH of Samples'
 --- !u!222 &2010800178
 CanvasRenderer:
   m_ObjectHideFlags: 0

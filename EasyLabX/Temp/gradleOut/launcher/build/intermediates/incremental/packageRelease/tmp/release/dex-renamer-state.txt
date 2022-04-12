@@ -1,4 +1,0 @@
-#Tue Apr 12 21:09:44 IST 2022
-base.0=/Users/lithium/Desktop/AGA/EasyLabX/EasyLabX/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

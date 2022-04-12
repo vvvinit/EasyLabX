@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{F13A0729-105A-7599-4420-7E58875361D8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/pHPaperChange.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/L2Vapours.cs">
     <Files>
       <File FileName="Assets/MainMenu.cs" Line="14" Column="22" />
       <File FileName="Assets/GyroControl.cs" />
       <File FileName="Assets/EBackButtonScript.cs" />
       <File FileName="Assets/Game Contents/Earth/Scripts/SphereScript.cs" />
-      <File FileName="Assets/pHPaperChange.cs" Line="7" Column="24" />
+      <File FileName="Assets/pHPaperChange.cs" />
+      <File FileName="Assets/Scenes/L2Vapours.cs" Line="22" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,6 +18,7 @@
                   <Node name="Scripts" expanded="True" />
                 </Node>
               </Node>
+              <Node name="Scenes" expanded="True" />
               <Node name="MainMenu.cs" selected="True" />
             </Node>
           </Node>
