@@ -1,0 +1,4 @@
+#Tue Apr 12 13:29:54 IST 2022
+base.0=C\:\\Users\\Nischay\\Documents\\GitHub\\EasyLabX\\EasyLabX\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
