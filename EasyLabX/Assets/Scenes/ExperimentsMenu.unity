@@ -1612,8 +1612,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Aim : To find the pH of the given samples of solutions of solids or fruit
-    juices using pH paper.'
+  m_text: "NCERT Class 10 Science Lab Manual \u2013 Experiment 1\npH of Samples\n\n\nAim
+    : To find the pH of the given samples of solutions using pH paper.\n\n\nApparatus
+    : 4 Empty Flasks, Dil. HCl Solution, Dil. NaOH Solution, NaCl, Water, pH Paper
+    Strips"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -1706,7 +1708,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -141, y: 78}
+  m_AnchoredPosition: {x: -191, y: -78}
   m_SizeDelta: {x: 687.1151, y: 21.3078}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1630213035
@@ -1743,7 +1745,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -141, y: 78}
+  m_AnchoredPosition: {x: -141, y: -61}
   m_SizeDelta: {x: 687.1151, y: 21.3078}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1630213037
@@ -1766,7 +1768,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Aim : To study the reaction of acid and base and formation of salt.'
+  m_text: "NCERT Class 10 Science Lab Manual \u2013 Experiment 2\nReaction of acid
+    and base\n\n\nAim : To study the reaction of acid and base and formation of salt.\n\n\nApparatus
+    : 3 Empty Flasks, Dil. HCl Solution, Dil. NaOH Solution."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -1877,7 +1881,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -141, y: 78}
+  m_AnchoredPosition: {x: -158, y: -78}
   m_SizeDelta: {x: 687.1151, y: 21.3078}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1906065411
@@ -1900,7 +1904,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Aim : To study saponification reaction for preparation of soap.'
+  m_text: "NCERT Class 10 Science Lab Manual \u2013 Experiment 6\nSoap Preparation\n\n\nAim
+    : To study saponification reaction for preparation of soap.\n\n\nApparatus :
+    Dil. NaOH Solution, NaCl, Plant oil (castor oil + oleic acid), Water, pH Paper
+    Strips, tripod stand, bunsen burner, wire gauze and pair of tongs."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
